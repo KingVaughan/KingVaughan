@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="280" viewBox="0 0 280 280" role="img" aria-labelledby="title desc">
+  <title id="title">King Vaughan Royal Rogue seal</title>
+  <desc id="desc">An original crimson wax seal with an antique-gold geometric crown and the ivory initials KV on an obsidian center.</desc>
+  <defs>
+    <linearGradient id="wax" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E01B2A"/>
+      <stop offset="0.55" stop-color="#C1121F"/>
+      <stop offset="1" stop-color="#7D0912"/>
+    </linearGradient>
+  </defs>
+  <rect width="280" height="280" rx="28" fill="#0B0B0F"/>
+  <path d="M140 12L164 27L192 22L209 45L237 51L243 79L266 97L261 125L276 149L261 173L266 201L243 219L237 247L209 253L192 276L164 271L140 286L116 271L88 276L71 253L43 247L37 219L14 201L19 173L4 149L19 125L14 97L37 79L43 51L71 45L88 22L116 27Z" fill="url(#wax)" transform="translate(0 -4)"/>
+  <circle cx="140" cy="140" r="105" fill="none" stroke="#D4A72C" stroke-width="6"/>
+  <circle cx="140" cy="140" r="91" fill="#0B0B0F" stroke="#F5E9D8" stroke-width="2"/>
+  <path d="M93 107L88 68L119 91L140 52L161 91L192 68L187 107Z" fill="#C1121F" stroke="#D4A72C" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="88" cy="65" r="5" fill="#F5E9D8"/>
+  <circle cx="140" cy="49" r="5" fill="#F5E9D8"/>
+  <circle cx="192" cy="65" r="5" fill="#F5E9D8"/>
+  <path d="M98 121H182" stroke="#D4A72C" stroke-width="6" stroke-linecap="round"/>
+  <text x="140" y="185" fill="#F5E9D8" font-family="Georgia, Times New Roman, serif" font-size="63" font-weight="700" text-anchor="middle" letter-spacing="-5">KV</text>
+  <path d="M82 202H198" stroke="#C1121F" stroke-width="5"/>
+  <path d="M100 216H180" stroke="#D4A72C" stroke-width="3"/>
+</svg>

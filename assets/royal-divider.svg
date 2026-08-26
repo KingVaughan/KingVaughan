@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-labelledby="title desc">
+  <title id="title">Royal Rogue divider</title>
+  <desc id="desc">A slim obsidian divider with antique-gold lines, crimson geometric shards, and a small crown at its center.</desc>
+  <rect width="1200" height="72" rx="14" fill="#0B0B0F"/>
+  <path d="M24 36H520" stroke="#D4A72C" stroke-width="3"/>
+  <path d="M680 36H1176" stroke="#D4A72C" stroke-width="3"/>
+  <path d="M75 27H438" stroke="#C1121F" stroke-width="2"/>
+  <path d="M762 45H1125" stroke="#C1121F" stroke-width="2"/>
+  <path d="M26 28L46 36L26 44Z" fill="#C1121F"/>
+  <path d="M1174 28L1154 36L1174 44Z" fill="#C1121F"/>
+  <path d="M488 36L522 18L549 36L522 54Z" fill="#4A1942" stroke="#D4A72C" stroke-width="2"/>
+  <path d="M712 36L678 18L651 36L678 54Z" fill="#4A1942" stroke="#D4A72C" stroke-width="2"/>
+  <g transform="translate(572 13)">
+    <path d="M3 31L0 10L17 22L28 2L39 22L56 10L53 31Z" fill="#C1121F" stroke="#D4A72C" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M5 39H51" stroke="#F5E9D8" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <rect x="7" y="7" width="1186" height="58" rx="10" fill="none" stroke="#F5E9D8" stroke-width="1" opacity="0.24"/>
+</svg>
