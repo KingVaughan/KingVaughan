@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="88" viewBox="0 0 1200 88" role="img" aria-labelledby="title desc">
+  <title id="title">KV closing mark</title>
+  <desc id="desc">A minimal black divider with fine muted-gold lines, subtle pixel notches, and a small geometric KV monogram.</desc>
+
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0C0C0C"/>
+      <stop offset="1" stop-color="#080808"/>
+    </linearGradient>
+    <filter id="glow" x="0" y="0" width="1200" height="88" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#7F6600" flood-opacity="0.55" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="softGlow"/>
+      <feMerge>
+        <feMergeNode in="softGlow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="88" fill="#000000"/>
+  <path d="M20 18H1180L1188 26V62L1180 70H20L12 62V26Z" fill="url(#surface)" stroke="#171717"/>
+
+  <path d="M42 44H522M678 44H1158" fill="none" stroke="#7F6600" stroke-width="1.5" opacity="0.72" filter="url(#glow)"/>
+  <path d="M42 39H210M990 49H1158" fill="none" stroke="#2A2A2A"/>
+
+  <g fill="#7F6600" opacity="0.7">
+    <rect x="38" y="40" width="8" height="8"/>
+    <rect x="214" y="36" width="4" height="4"/>
+    <rect x="982" y="48" width="4" height="4"/>
+    <rect x="1154" y="40" width="8" height="8"/>
+  </g>
+
+  <path d="M548 22H652L664 34V54L652 66H548L536 54V34Z" fill="#000000" stroke="#7F6600" stroke-width="1.5" filter="url(#glow)"/>
+  <g fill="none" stroke="#E6E6E6" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M566 31V57M566 44L580 31M566 44L580 57"/>
+    <path d="M590 31L601 57L612 31"/>
+  </g>
+  <rect x="624" y="40" width="8" height="8" fill="#7F6600" filter="url(#glow)"/>
+</svg>
